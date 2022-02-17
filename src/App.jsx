@@ -10,6 +10,7 @@ import Tasks from "./components/Tasks";
 import Header from "./components/Header";
 import TaskDetails from "./components/TaskDetails";
 
+
 const App = () => {
   const [tasks, setTasks] = useState([
     {
