@@ -13,12 +13,13 @@
     cursor: pointer;
 }
 
-.remove-task-button {
+.remove-task-button,
+.see-task-details-button {
     background-color: #444;
     border: none;
     font-size: 24px;
     color: chartreuse;
-    cursor: pointer;/*pra testar*/
+    cursor: pointer;
+    margin:0 5px;
 }
 
-.buttons-container {}
